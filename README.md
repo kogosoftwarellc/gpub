@@ -1,7 +1,7 @@
 gpub
 ======================
 
-Deploy script for github sites.
+Deploy github sites with ease.
 
 ## Process
 
