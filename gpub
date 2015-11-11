@@ -58,8 +58,12 @@ function help() {
 }
 
 function validate_repo_dir() {
-  if [ ! -d "$REPO_DIR" ]; then
+  if [[ -z "$REPO_DIR" ]]; then
     echo "--repo-dir is a required argument and must resolve to a directory!"
+  fi
+
+  if [ ! -d "$REPO_DIR" ]; then
+    echo "--repo-dir did not resolve to a directory!  $REPO_DIR was given."
     help 1
   fi
 }
