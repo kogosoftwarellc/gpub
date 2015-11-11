@@ -25,8 +25,8 @@ function clear_dir() {
 
 function get_args() {
   while [[ $# > 1 ]];do
-    key="$1"
-    case $key in
+    option="$1"
+    case $option in
       --repo-dir)
         pushd "$2"
         REPO_DIR="$(readlink -f "$2")"
@@ -45,6 +45,7 @@ function get_args() {
         shift
         ;;
       *)
+        echo "Ignoring unkown option ${option}..."
         shift
         ;;
     esac
