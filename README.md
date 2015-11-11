@@ -1,7 +1,10 @@
-gpub
-======================
+[downloads-image]: http://img.shields.io/npm/dm/google-form.svg
+[npm-url]: https://npmjs.org/package/google-form
+[npm-image]: http://img.shields.io/npm/v/google-form.svg
 
-Deploy github sites with ease.
+gpub [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+======================
+> Deploy github sites with ease.
 
 ## Installing
 
