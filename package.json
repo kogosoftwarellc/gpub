@@ -2,7 +2,7 @@
   "name": "gpub",
   "version": "0.5.1",
   "description": "Deploy github sites with ease.",
-  "main": "  ",
+  "preferGlobal": true,
   "bin": {
     "gpub": "./gpub"
   },

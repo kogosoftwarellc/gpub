@@ -3,6 +3,10 @@ gpub
 
 Deploy github sites with ease.
 
+## Installing
+
+`npm install -g gpub`
+
 ## Process
 
 1. clean the working copy.
