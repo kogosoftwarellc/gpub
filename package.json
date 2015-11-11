@@ -1,6 +1,6 @@
 {
   "name": "gpub",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Deploy github sites with ease.",
   "preferGlobal": true,
   "bin": {
