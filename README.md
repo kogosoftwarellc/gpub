@@ -30,7 +30,7 @@ gpub [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-ur
 * Your project is compatible with npm.
 * You have a `build` script defined in your `package.json`.
 * You have git installed.
-* Your gulp script outputs a `dist` directory.
+* Your build script outputs a `dist` directory.
 * If you're on a mac, you'll need to have GNU's `readlink` on your path (google homebrew gnu readlink for more info).
 
 ## Usage
