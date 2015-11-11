@@ -1,6 +1,6 @@
-[downloads-image]: http://img.shields.io/npm/dm/google-form.svg
-[npm-url]: https://npmjs.org/package/google-form
-[npm-image]: http://img.shields.io/npm/v/google-form.svg
+[downloads-image]: http://img.shields.io/npm/dm/gpub.svg
+[npm-url]: https://npmjs.org/package/gpub
+[npm-image]: http://img.shields.io/npm/v/gpub.svg
 
 gpub [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 ======================
