@@ -1,0 +1,28 @@
+{
+  "name": "gpub",
+  "version": "0.5.0",
+  "description": "Deploy github sites with ease.",
+  "main": "  ",
+  "bin": {
+    "gpub": "./gpub"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kogosoftwarellc/gpub"
+  },
+  "keywords": [
+    "github",
+    "static",
+    "site",
+    "sites",
+    "publish",
+    "deploy",
+    "script"
+  ],
+  "author": "Joseph Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogosoftwarellc/gpub/issues"
+  },
+  "homepage": "https://github.com/kogosoftwarellc/gpub"
+}
